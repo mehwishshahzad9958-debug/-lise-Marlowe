@@ -31,3 +31,5 @@ yarn-error.log*
 # Operating system / editor clutter
 .DS_Store
 Thumbs.db
+
+*.tsbuildinfo
