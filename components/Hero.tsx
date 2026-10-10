@@ -19,6 +19,7 @@ const navLinks = [
   { label: "Editorials", href: "#editorials" },
   { label: "About", href: "#about" },
   { label: "Contact", href: "#contact" },
+  { label: "Register", href: "/register" },
 ];
 
 const stats = [
